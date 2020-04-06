@@ -24,46 +24,46 @@ $ac = "class=active";
                         <!--<li><a class="active" href="javascript:void(0)">HOME</a></li>-->
                         <li><a href="shop.php" <?php print ($youarehere == "shop") ? $ac : ""; ?>>PRODUCTS</a>
                             <ul class="sub-menu">
-                               <li><a href="#">Gold</a></li>
-                               <li><a href="#">Silver</a></li>
-                               <li><a href="#">Palladium</a></li>
-                               <li><a href="#">Platinum</a></li>
-                               <li><a href="#">IRA Approved Products</a></li>
+                               <li><a href="gold-products.php">Gold</a></li>
+                               <li><a href="silver-products.php">Silver</a></li>
+                               <li><a href="palladium-products.php">Palladium</a></li>
+                               <li><a href="platinum-products.php">Platinum</a></li>
+                               <li><a href="ira-approved-products.php">IRA Approved Products</a></li>
                             </ul>
                         </li>
-                        <li><a href="about-us.php" <?php print ($youarehere == "about-us") ? $ac : ""; ?>>ABOUT</a>
+                        <li><a href="javascript:void(0)" <?php print ($youarehere == "about-us") ? $ac : ""; ?>>ABOUT</a>
                             <ul class="sub-menu">
                                 <li><a href="about-us.php#whyFCG">Why FCG</a></li>
                                 <li><a href="about-us.php#fgcDifference">Our Difference</a></li>
                                 <li><a href="careers.php">Careers</a></li>
                             </ul>
                         </li>
-                        <li><a href="why-precious-metals.php" <?php print ($youarehere == "why-precious-metals") ? $ac : ""; ?>>WHY PRECIOUS METALS</a>
+                        <li><a href="javascript:void(0)" <?php print ($youarehere == "why-precious-metals") ? $ac : ""; ?>>WHY PRECIOUS METALS</a>
                             <ul class="sub-menu">
-                                <li><a href="#">Why invest in precious metals ?</a></li>
-                                <li><a href="#">Types of precious metals</a></li>
-                                <li><a href="#">Why invest in gold</a></li>
-                                <li><a href="#">Why invest in silver</a></li>
+                                <li><a href="why-invest-in-precious-metals.php">Why invest in precious metals ?</a></li>
+                                <li><a href="types-of-precious-metals.php">Types of precious metals</a></li>
+                                <li><a href="why-invest-in-gold.php">Why invest in gold</a></li>
+                                <li><a href="why-invest-in-silver.php">Why invest in silver</a></li>
                            </ul>
                         </li>
 
-                        <li><a href="precious-metals-iras.php" <?php print ($youarehere == "precious-metals-iras") ? $ac : ""; ?>>PRECIOUS METALS IRA'S</a>
+                        <li><a href="javascript:void(0)" <?php print ($youarehere == "precious-metals-iras") ? $ac : ""; ?>>PRECIOUS METALS IRA'S</a>
                             <ul class="sub-menu">
-                                <li><a href="#">Why gold IRA's ?</a></li>
-                                <li><a href="#">IRA approved products</a></li>
-                                <li><a href="#">Open or rollover an IRA account</a></li>
-                                <li><a href="#">IRA FAQ'S</a></li>
+                                <li><a href="why-gold-iras.php">Why gold IRA's ?</a></li>
+                                <li><a href="ira-approved-products.php">IRA approved products</a></li>
+                                <li><a href="open-or-rollover-ira.php">Open or rollover an IRA account</a></li>
+                                <li><a href="ira-faqs.php">IRA FAQ'S</a></li>
                             </ul>
                         </li>
-                        <li><a href="resources.php" <?php print ($youarehere == "resources") ? $ac : ""; ?>>RESOURCES</a>
+                        <li><a href="javascript:void(0)" <?php print ($youarehere == "resources") ? $ac : ""; ?>>RESOURCES</a>
                             <ul class="sub-menu">
-                                <li><a href="#">News Room</a></li>
-                                <li><a href="#">Precious metals glossary terms</a></li>
-                                <li><a href="#">Get your FREE ebook</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">IRS reporting resources</a></li>
-                                <li><a href="#">Gold History</a></li>
-                                <li><a href="#">Sitemap</a></li>
+                                <li><a href="newsroom.php">News Room</a></li>
+                                <li><a href="precious-metals-glossary-terms.php">Precious metals glossary terms</a></li>
+                                <li><a href="get-your-free-ebook.php">Get your FREE ebook</a></li>
+                                <li><a href="faq.php">FAQ</a></li>
+                                <li><a href="irs-reporting-resources.php">IRS reporting resources</a></li>
+                                <li><a href="gold-history.php">Gold History</a></li>
+                                <li><a href="sitemap.php">Sitemap</a></li>
                             </ul>
                         </li>
                         <li><a href="contact.php" <?php print ($youarehere == "contact") ? $ac : ""; ?>>Contact</a></li>

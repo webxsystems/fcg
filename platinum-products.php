@@ -5,8 +5,8 @@
  * Time: 5:39 AM
  */
 
-$title  = "Precious Metals IRA's";
-$title1 = "Gold";
+$title  = "Platinum Products";
+$title1 = "Platinum";
 $title2 = "Products";
 
 ?>

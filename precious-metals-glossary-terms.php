@@ -5,9 +5,9 @@
  * Time: 5:39 AM
  */
 
-$title  = "Precious Metals IRA's";
-$title1 = "Gold";
-$title2 = "Products";
+$title  = "Precious Metals Glossary Terms";
+$title1 = "Precious Metals";
+$title2 = "Glossary Terms";
 
 ?>
 
